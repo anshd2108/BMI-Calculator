@@ -1,0 +1,22 @@
+#bx{
+    box-shadow: 20px,black;
+}
+#free{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateX(-14px);
+    background-color: white;
+}
+#sh{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+}
+#tr{
+    font-size: larger;
+}
+#zx{
+    font-size: 20px;
+}

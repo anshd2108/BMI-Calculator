@@ -1,0 +1,38 @@
+#j{
+    width: 900px;
+    margin-top: 70px;
+    align-items: center;
+    border-radius: 20px;
+    background-color: 000040;
+    
+    box-shadow: 20px, black;
+}
+.intro{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#con{
+    margin-left: 530px;
+}
+#but{
+    width: 200px;
+    transform: translateX(150px);
+    height: auto;
+    font-size: 40px;
+    border-radius: 15px;
+    background-color: #c3e3eb;
+    border: 0px;
+    color: black;
+    font-weight: bolder;
+}
+#but2{
+    width: 200px;
+    transform: translateX(304px);
+    height: auto;
+    font-size: 40px;
+    border-radius: 15px;
+    background-color: #c3e3eb;
+    border: 0px;
+    color: black;
+    font-weight: bolder;
+}
